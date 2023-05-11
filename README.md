@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer in VietNamVietNam
+I'm a full stack developer in VietNam
 
 👩‍💻 I'm currently working on...
 
@@ -13,17 +13,9 @@ I'm a full stack developer in VietNamVietNam
 
 🌱 I’m currently learning ASP.NET core, C#
 
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
 💬 Ask me about ASP.NET core, C#
 
 📫 How to reach me trandinhvan0294@gmail.com
-
-😄 Pronouns...
-
-⚡️ Fun fact...
 
 
 ## 🛠 Skills
