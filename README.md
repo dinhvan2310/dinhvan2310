@@ -11,9 +11,9 @@ I'm a full stack developer in VietNam
 
 🧠 I'm currently learning coding skills and english
 
-🌱 I’m currently learning ASP.NET core, C#
+🌱 I’m currently learning ASP.NET core, C#, ReactJs
 
-💬 Ask me about ASP.NET core, C#
+💬 Ask me about ASP.NET core, C#, ReactJs
 
 📫 How to reach me trandinhvan0294@gmail.com
 
